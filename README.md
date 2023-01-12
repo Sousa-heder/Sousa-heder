@@ -1,4 +1,4 @@
-### Hi 👋, I'm Hedeson Sousa 
+### Hi 👋, I'm Hedeson Sousa, estou estudando para ser um programador FullStack
 
 
  
@@ -13,6 +13,10 @@
 
 ##
   
-  
+  <div>
+   <a href="https://instagram.com/hed_sousa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:hedersonbalbino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https:www.linkedin.com/in/hederson-sousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ <div/>
 
