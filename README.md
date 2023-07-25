@@ -1,4 +1,4 @@
-### Hi 👋, I'm Hedeson Sousa, estou estudando para ser um programador FullStack
+### Hi 👋, I'm Hedeson Sousa, estou estudando para ser um Web Developer
 
 
  
