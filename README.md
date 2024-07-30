@@ -55,6 +55,6 @@ Tenho 22 anos, sou da Bahia mas moro em São Paulo e sou apaixonado por programa
 <p align="center">
 <a href="https://github.com/jeniblodev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sousa-Heder&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </p>
