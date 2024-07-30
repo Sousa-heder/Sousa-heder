@@ -52,9 +52,4 @@ Tenho 22 anos, sou da Bahia mas moro em São Paulo e sou apaixonado por programa
 <a href="https://www.instagram.com/hed_Sousa" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/hederson-sousa/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 ##
-<p align="center">
-<a href="https://github.com/jeniblodev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sousa-Heder&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
-</a>
-</p>
+
