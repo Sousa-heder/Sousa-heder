@@ -21,6 +21,6 @@
   <div>
    <a href="https://instagram.com/hed_sousa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:hedersonbalbino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href= "www.linkedin.com/in/hederson-sousa" target="_blank"> <img align="center" alt="Hed-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
+     <a href= "www.linkedin.com/in/hederson-sousa" target="_blank"> <img align="center" alt="Hed-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
  <div/>
 
